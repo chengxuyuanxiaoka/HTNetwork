@@ -1,0 +1,16 @@
+PODS:
+  - HTNetwork (0.1.0)
+
+DEPENDENCIES:
+  - HTNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  HTNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTNetwork: ba06c2f43199bfb6727e47a480bd3af1496289cc
+
+PODFILE CHECKSUM: 6f24c718832d4e212d7902fd469a141a9248e94e
+
+COCOAPODS: 1.9.1

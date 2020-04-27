@@ -7,6 +7,7 @@
 //
 
 #import "HTAppDelegate.h"
+#import "AFNetworking.h"
 
 @implementation HTAppDelegate
 

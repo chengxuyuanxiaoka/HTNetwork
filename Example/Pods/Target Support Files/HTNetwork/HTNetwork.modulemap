@@ -1,0 +1,6 @@
+framework module HTNetwork {
+  umbrella header "HTNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HTNetwork",
+  "version": "0.1.0",
+  "summary": "This is a network request framework.",
+  "description": "This is a network request framework, very useful",
+  "homepage": "https://github.com/hanteng/HTNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanteng": "1246901487@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hanteng/HTNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HTNetwork/Classes/**/*"
+}
